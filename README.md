@@ -1,19 +1,21 @@
 <div>
  <img align="right" width="30%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
 
- ### Hey There!, I am <a target="_blank" href="https://www.thomaspsl.fr">PEISSEL Thomas</a></h1>
+ ### ¡Hola!, I am <a target="_blank" href="https://www.thomaspsl.fr">PEISSEL Thomas</a></h1>
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thomaspssl)
+ [![Instagram](https://img.shields.io/badge/Instagram-EE0E81.svg?logo=Instagram&logoColor=white)](https://instagram.com/thomaspssl)
+ [![Github](https://img.shields.io/badge/Github-333333.svg?logo=Github&logoColor=white)](https://github.com/thomaspsl)
+ [![Twitter](https://img.shields.io/badge/Twitter-24A4F3.svg?logo=X&logoColor=white)](https://x.com/thomaspssl)
 
- _I’m currently a fullstack NodeJs dev._
+ _I'm a Student in the 2nd y of the Full-Stack Developer Master's program_
 </div>
 
 <div>
  <img align="right" width="30%" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/>
  
- 🔭 I’m currently a fullstack NodeJs dev.<br>
- 👯 I’m looking to collaborate on all .<br>
- ⚡ Fun fact: I speak many languages.
+ 💻 Code Artisan — I craft clean, robust, and maintainable applications<br>
+ 📦 Fullstack Enthusiast — APIs, databases, UIs… I build end to end<br>
+ 🌍 Fluent in languages — JS, SQL, Docker… and also French, English, and Spanish
 
  <img width="36%" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 </div>
