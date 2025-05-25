@@ -16,13 +16,13 @@
  📦 **Fullstack Enthusiast** - APIs, databases, UIs… I build end to end<br>
  🌍 **Fluent** - JS, SQL, Docker… and also French, English, and Spanish
 
- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=212121"/>
+ <a href="https://github.com/thomaspsl-org" target="_blank"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=212121"/></a>
  
  <details>
   <summary>⚙️ More statistics</summary>
    <div align="center">
-    <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=true&background=212121"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121"/>
+    <a href="https://github.com/thomaspsl-org" target="_blank"><img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=true&background=212121"/></a>
+    <a href="https://github.com/thomaspsl-org" target="_blank"><img height="150" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121"/></a>
    </div>
  </details>
 </div>
