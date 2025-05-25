@@ -4,7 +4,7 @@
  ### ¡Hola!, I am <a target="_blank" href="https://www.thomaspsl.fr">PEISSEL Thomas</a></h1>
 
  [![Instagram](https://img.shields.io/badge/Instagram-EE0E81.svg?logo=Instagram&logoColor=white)](https://instagram.com/thomaspssl)
- [![Github](https://img.shields.io/badge/Github-333333.svg?logo=Github&logoColor=white)](https://github.com/thomaspsl)
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thomaspsl)
  [![Twitter](https://img.shields.io/badge/Twitter-24A4F3.svg?logo=X&logoColor=white)](https://x.com/thomaspssl)
 
  _I'm a Student in the 2nd y of the Full-Stack Developer Master's program_
@@ -13,9 +13,9 @@
 <div>
  <img align="right" width="30%" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/>
  
- 💻 Code Artisan — I craft clean, robust, and maintainable applications<br>
- 📦 Fullstack Enthusiast — APIs, databases, UIs… I build end to end<br>
- 🌍 Fluent in languages — JS, SQL, Docker… and also French, English, and Spanish
+ 💻 **Code Artisan** - I craft clean, robust, and maintainable applications<br>
+ 📦 **Fullstack Enthusiast** - APIs, databases, UIs… I build end to end<br>
+ 🌍 **Fluent** - JS, SQL, Docker… and also French, English, and Spanish
 
  <img width="36%" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 </div>
