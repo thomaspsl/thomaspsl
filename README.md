@@ -1,5 +1,5 @@
 <div>
- <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3" target="_blank"><img align="right" width="35%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></a>
+ <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3" target="_blank"><img align="right" width="32%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></a>
 
  ### ¡Hola!, I am <a target="_blank" href="https://www.thomaspsl.fr">PEISSEL Thomas</a></h1>
  [![Instagram](https://img.shields.io/badge/Instagram-EE0E81.svg?logo=Instagram&logoColor=white)](https://instagram.com/thomaspssl)
@@ -10,13 +10,13 @@
 </div>
 
 <div>
- <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3" target="_blank"><img align="right" width="35%" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/></a>
+ <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3" target="_blank"><img align="right" width="32%" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/></a>
  
  💻 **Code Artisan** - I craft clean, robust, and maintainable applications<br>
  📦 **Fullstack Enthusiast** - APIs, databases, UIs… I build end to end<br>
  🌍 **Fluent** - JS, SQL, Docker… and also French, English, and Spanish
 
- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+ <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
  
  <details>
   <summary>More statistics</summary>
