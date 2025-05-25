@@ -3,6 +3,7 @@
 
  ### Hey There!, I am <a target="_blank" href="https://www.thomaspsl.fr">PEISSEL Thomas</a></h1>
 
+ _I’m currently a fullstack NodeJs dev._<br>
  _I’m currently a fullstack NodeJs dev._
 </div>
 
