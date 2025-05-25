@@ -17,7 +17,7 @@
  📦 **Fullstack Enthusiast** - APIs, databases, UIs… I build end to end<br>
  🌍 **Fluent** - JS, SQL, Docker… and also French, English, and Spanish
 
- <img width="36%" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+ <img width="35.5%" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 </div>
    
 <!--
