@@ -14,17 +14,10 @@
  👯 I’m looking to collaborate on all .<br>
  ⚡ Fun fact: I speak many languages.
 
- 
- 🔭 I’m currently a fullstack NodeJs dev.<br>
- 👯 I’m looking to collaborate on all .<br>
- ⚡ Fun fact: I speak many languages.
-
- 🔭 I’m currently a fullstack NodeJs dev.<br>
- 👯 I’m looking to collaborate on all .<br>
- ⚡ Fun fact: I speak many languages.
+ <img width="37%" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 </div>
    
-<!--![](https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<!--
 ![](https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
@@ -32,6 +25,7 @@
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,md,bash,java,py,php,c)
 
+ 
 ### Databases
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,graphql)
