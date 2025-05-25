@@ -15,7 +15,7 @@
  👯 I’m looking to collaborate on all .<br>
  ⚡ Fun fact: I speak many languages.
 
- <img width="35%" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+ <img width="36%" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 </div>
    
 <!--
