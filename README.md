@@ -14,14 +14,6 @@
  👯 I’m looking to collaborate on all .<br>
  ⚡ Fun fact: I speak many languages.
 </div>
-
-
-
-
-
-
-
-
    
 <!--![](https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=false)
@@ -36,7 +28,7 @@
 
 ### Framework / Library
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwindcss,electron,vite,tauri,laravel,symfony)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwindcss,vite,laravel,symfony)
 
 ### Version Control
 
