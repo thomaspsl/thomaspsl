@@ -33,10 +33,12 @@
 <div>
  <img align="left" height="50" src="https://skillicons.dev/icons?i=html,css,js,typescript,php,py,bash,java"/>
  <img align="right" height="50" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
+ <br><br><br>
  <img align="left" height="50" src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwindcss,vite,laravel,symfony"/>
  <img align="right" height="50" src="https://skillicons.dev/icons?i=windows,linux,redhat,ubuntu,debian,raspberrypi"/>
-</div>
+ <br><br><br>
  <img align="center" height="50" width="100%" src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,prisma,vercel,cloudflare,docker,discord,githubactions,npm,postman,figma"/>
+</div>
 
 <!-- 
 <h3 align="left">Databases</h3>
