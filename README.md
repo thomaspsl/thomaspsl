@@ -2,7 +2,6 @@
  <img align="right" width="30%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
 
  ### ¡Hola!, I am <a target="_blank" href="https://www.thomaspsl.fr">PEISSEL Thomas</a></h1>
-
  [![Instagram](https://img.shields.io/badge/Instagram-EE0E81.svg?logo=Instagram&logoColor=white)](https://instagram.com/thomaspssl)
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thomaspsl)
  [![Twitter](https://img.shields.io/badge/Twitter-24A4F3.svg?logo=X&logoColor=white)](https://x.com/thomaspssl)
@@ -17,33 +16,45 @@
  📦 **Fullstack Enthusiast** - APIs, databases, UIs… I build end to end<br>
  🌍 **Fluent** - JS, SQL, Docker… and also French, English, and Spanish
 
- <img width="35.5%" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+ <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+ 
+ <details>
+  <summary>More statistics</summary>
+   <div align="center">
+    <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=false"/>
+     <img height="150" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+   </div>
+ </details>
 </div>
    
 <!--
-![](https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 -->
 
 # 
- 
-### Languages
-![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,md,bash,java,py,php,c)
 
-### Databases
+<div>
+ <div align="left" width="50%">
+  <h3>Databases</h3>
+  <img align="left" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,graphql"/>
+ </div>
+ <div align="right" width="50%">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=typescript,js,html,css,md,bash,java,py,php,c"/>
+ </div>
+</div>
 
-![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,graphql)
+
+
+
 
 ### Framework / Library
-
 ![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwindcss,vite,laravel,symfony)
 
 ### DevOps
-
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,prisma,vercel,docker,discord,githubactions,npm,postman,figma)
 
 ### OS
-
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,redhat,ubuntu,debian,raspberrypi)
 
 <!-- # 💻 Tech Stack:
