@@ -1,17 +1,27 @@
-<div align='center'>
-  
-<h3>👋 Hey There!, I am
-    <b><a target="_blank" href="https://shahriarshafin.github.io/">Peissel Thomas</a></b>
-</h3>
+<div class="grid" markdown>
+
+![Image title](https://dummyimage.com/200x200/f5f5f5/aaaaaa?text=1)
+
+![Image title](https://dummyimage.com/200x200/f5f5f5/aaaaaa?text=1)
+
+![Image title](https://dummyimage.com/200x200/f5f5f5/aaaaaa?text=1)
+
+![Image title](https://dummyimage.com/200x200/f5f5f5/aaaaaa?text=1)
 
 </div>
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
+<h3>👋 Hey There!, I am
+  <b><a target="_blank" href="https://shahriarshafin.github.io/">Peissel Thomas</a></b>
+
+  
+  
+</h3>
+
+
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5">
+  <p><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></p>
+  <p><img src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"></p>
 </p>
 
 ##  Hooollllaaaaa :
