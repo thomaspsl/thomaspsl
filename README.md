@@ -24,11 +24,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
+
+# 
  
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,md,bash,java,py,php,c)
 
- 
 ### Databases
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,graphql)
