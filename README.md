@@ -19,7 +19,7 @@
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=212121"/>
  
  <details>
-  <summary>More statistics</summary>
+  <summary>⚙️ More statistics</summary>
    <div align="center">
     <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=true&background=212121"/>
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121"/>
