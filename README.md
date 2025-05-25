@@ -37,13 +37,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwindcss,vite,laravel,symfony)
 
-### Version Control
-
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
-
 ### DevOps
 
-![My Skills](https://skillicons.dev/icons?i=vscode,prisma,vercel,docker,discord,githubactions,npm,postman,figma)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,prisma,vercel,docker,discord,githubactions,npm,postman,figma)
 
 ### OS
 
