@@ -10,19 +10,19 @@
 </div>
 
 <div>
- <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3" target="_blank"><img align="right" width="33%" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/></a>
+ <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3"><img align="right" width="33%" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/></a>
  
  💻 **Code Artisan** - I craft clean, robust, and maintainable applications<br>
  📦 **Fullstack Enthusiast** - APIs, databases, UIs… I build end to end<br>
  🌍 **Fluent** - JS, SQL, Docker… and also French, English, and Spanish
 
- <a href="https://github.com/thomaspsl-org" target="_blank"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=212121"/></a>
+ <a href="https://github.com/thomaspsl-org"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=212121"/></a>
  
  <details>
   <summary>⚙️ More statistics</summary>
    <div align="center">
-    <a href="https://github.com/thomaspsl-org" target="_blank"><img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=true&background=212121"/></a>
-    <a href="https://github.com/thomaspsl-org" target="_blank"><img height="150" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121"/></a>
+    <a href="https://github.com/thomaspsl-org"><img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=true&background=212121"/></a>
+    <a href="https://github.com/thomaspsl-org"><img height="150" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121"/></a>
    </div>
  </details>
 </div>
