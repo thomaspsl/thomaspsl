@@ -1,25 +1,28 @@
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+<div>
+ <img align="right" width="30%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
 
-<h3>> Hey There!, I am <a target="_blank" href="https://www.thomaspsl.fr">PEISSEL Thomas</a></h3>
+ ### Hey There!, I am <a target="_blank" href="https://www.thomaspsl.fr">PEISSEL Thomas</a></h1>
 
-🔭 I’m currently a fullstack NodeJs dev.  
-👯 I’m looking to collaborate on all .  
-⚡ Fun fact: I speak many languages.
+ _I’m currently a fullstack NodeJs dev._
+</div>
 
-<img align="right" width="25%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+<div>
+ <img align="right" width="30%" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/>
+ 
+ 🔭 I’m currently a fullstack NodeJs dev.<br>
+ 👯 I’m looking to collaborate on all .<br>
+ ⚡ Fun fact: I speak many languages.
+</div>
 
-<img align="right" width="25%" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/>
+
+
+
+
+
+
+
    
-![](https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<!--![](https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
