@@ -37,7 +37,7 @@
  
  <h3>Frameworks & OS</h3>
  <img height="50" src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwindcss,laravel,symfony"/>
- <img align="right" height="50" src="https://skillicons.dev/icons?i=windows,linux,redhat,ubuntu,debian,raspberrypi"/>
+ <img align="right" height="50" src="https://skillicons.dev/icons?i=windows,linux,redhat,ubuntu,debian"/>
  
  <h3 align="left">DevOps</h3>
  <img height="50" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm,prisma,postman,figma,cloudflare,githubactions,docker"/>
