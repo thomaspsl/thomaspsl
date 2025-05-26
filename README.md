@@ -31,16 +31,14 @@
 # 
 
 <div>
- <!-- <h3 align="left">Languages</h3> -->
+ <h3 align="left">Languages & Databases</h3>
  <img align="left" height="50" src="https://skillicons.dev/icons?i=html,css,js,typescript,php,py,bash,java"/>
-  <!-- <h3 align="right">Databases</h3> -->
  <img align="right" height="50" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
- <br><br><br>
- <!-- <h3 align="left">Frameworks</h3> -->
+ <br><br>
+ <h3 align="left">Frameworks & OS</h3>
  <img align="left" height="50" src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwindcss,laravel,symfony"/>
-  <!-- <h3 align="right">OS</h3> -->
  <img align="right" height="50" src="https://skillicons.dev/icons?i=windows,linux,redhat,ubuntu,debian,raspberrypi"/>
- <br><br><br>
- <!-- <h3 align="center">DevOps</h3> -->
+ <br><br>
+ <h3 align="center">DevOps</h3>
  <img align="center" height="50" width="100%" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm,prisma,postman,figma,cloudflare,githubactions,docker"/>
 </div>
