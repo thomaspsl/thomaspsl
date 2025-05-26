@@ -6,7 +6,7 @@
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thomaspsl)
  [![Twitter](https://img.shields.io/badge/Twitter-24A4F3.svg?logo=X&logoColor=white)](https://x.com/thomaspssl)
 
- _I'm a Student in the 2nd y of the Full-Stack Developer Master's program_
+ _I'm a Student in the 2nd y of the Full-Stack Developer Master's degree_
 </div>
 
 <div>
