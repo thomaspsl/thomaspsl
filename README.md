@@ -2,9 +2,9 @@
  <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3"><img align="right" width="33%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></a>
 
  ### ¡Hola!, I am <a href="https://www.thomaspsl.fr">PEISSEL Thomas</a></h1>
- [![Instagram](https://img.shields.io/badge/Instagram-EE0E81.svg?logo=Instagram&logoColor=white)](https://instagram.com/thomaspssl)
+ [![Instagram](https://img.shields.io/badge/Instagram-EE0E81.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thomaspssl)
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thomaspsl)
- [![Twitter](https://img.shields.io/badge/Twitter-24A4F3.svg?logo=X&logoColor=white)](https://x.com/thomaspssl)
+ [![Twitter](https://img.shields.io/badge/Twitter-24A4F3.svg?logo=X&logoColor=white)](https://www.x.com/thomaspssl)
 
  _I’m a Full-Stack Developer, recently graduated with a Master’s degree in Web Development._
 </div>
