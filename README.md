@@ -16,9 +16,9 @@
  <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3">
   <img align="right" width="310" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/></a>
  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> **Code Artisan** - I craft clean, robust, and maintainable applications<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> **Fullstack Enthusiast** - APIs, databases, UIs… I build end to end<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="25" /> **Fluent** - JS, SQL, Docker… and also French, English, and Spanish
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="15" height="15" /> **Code Artisan** - I craft clean, robust, and maintainable applications<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="15" height="15" /> **Fullstack Enthusiast** - APIs, databases, UIs… I build end to end<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="15" height="15" /> **Fluent** - JS, SQL, Docker… and also French, English, and Spanish
 
  <a href="https://github.com/thomaspsl-org"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=212121"/></a>
  
