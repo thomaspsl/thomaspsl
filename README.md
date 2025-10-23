@@ -10,7 +10,7 @@
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thomaspsl)
   [![Twitter](https://img.shields.io/badge/Twitter-24A4F3.svg?logo=X&logoColor=white)](https://www.x.com/thomaspssl)
 
-  _I’m a Full-Stack Developer, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25" height="25" />_<br>
+  _I’m a Full-Stack Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25" height="25" />_<br>
   _recently graduated with a Master’s degree in Web Development._
   
 </div>
