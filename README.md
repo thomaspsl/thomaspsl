@@ -14,7 +14,7 @@
 
 <div>
  <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3">
-  <img align="right" width="300" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/></a>
+  <img align="right" width="325" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/></a>
  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> **Code Artisan** - I craft clean, robust, and maintainable applications<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> **Fullstack Enthusiast** - APIs, databases, UIs… I build end to end<br>
