@@ -1,6 +1,6 @@
 <div>
   <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3">
-    <img align="right" width="280" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+    <img align="right" width="275" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
   </a>
 
   ### ¡Hola!, I am <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="25" height="25" /><a href="https://www.thomaspsl.fr">PEISSEL Thomas</a>
@@ -16,7 +16,7 @@ _recently graduated with a Master’s degree in Web Development._
 
 <div>
  <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3">
-  <img align="right" width="280" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/>
+  <img align="right" width="275" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/>
  </a>
  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="15" height="15" /> **Code Artisan** - I craft clean, robust, and maintainable applications<br>
