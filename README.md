@@ -29,6 +29,7 @@
 
   <details>
     <summary>⚙️ More statistics</summary>
+    <br>
     <div align="center">
       <a href="https://github.com/thomaspsl-org">
         <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=true&background=212121"/>
