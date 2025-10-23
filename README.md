@@ -1,7 +1,10 @@
 <div>
- <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3"><img align="right" width="33%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></a>
+ <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3">
+  <img align="right" width="33%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=7cepwxzhqd643r8dbh1kmqlo3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+ </a>
 
- ### ¡Hola!, I am <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="25" height="25" /><a href="https://www.thomaspsl.fr">PEISSEL Thomas</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
+ ### ¡Hola!, I am <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="25" height="25" /><a href="https://www.thomaspsl.fr">PEISSEL Thomas</a>
+ 
  [![Instagram](https://img.shields.io/badge/Instagram-EE0E81.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thomaspssl)
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thomaspsl)
  [![Twitter](https://img.shields.io/badge/Twitter-24A4F3.svg?logo=X&logoColor=white)](https://www.x.com/thomaspssl)
@@ -10,7 +13,8 @@
 </div>
 
 <div>
- <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3"><img align="right" width="33%" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/></a>
+ <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3">
+  <img align="right" width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/></a>
  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> **Code Artisan** - I craft clean, robust, and maintainable applications<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> **Fullstack Enthusiast** - APIs, databases, UIs… I build end to end<br>
