@@ -24,7 +24,7 @@
   <a href="https://github.com/thomaspsl"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=212121"/></a>
 
   <details>
-    <summary>⚙️ More statistics - <img valign="sub" src="https://komarev.com/ghpvc/?username=thomaspsl&color=blueviolet&style=flat-rounded&label=Profile+views"/></summary>
+    <summary>⚙️ More statistics - <a href="https://github.com/thomaspsl"><img valign="sub" src="https://komarev.com/ghpvc/?username=thomaspsl&color=blueviolet&style=flat-rounded&label=Profile+views"/></a></summary>
     <div align="center">
       <a href="https://github.com/thomaspsl"><img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=true&background=212121"/></a>
       <a href="https://github.com/thomaspsl"><img height="150" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121"/></a>
