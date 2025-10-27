@@ -10,7 +10,7 @@
 
   _I’m a Full-Stack Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25" height="25" />_<br>
   _recently graduated with a Master’s degree in Web Development._
-  
+
 </div>
 
 <div>
@@ -24,7 +24,7 @@
   <a href="https://github.com/thomaspsl"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=212121"/></a>
 
   <details>
-    <summary>⚙️ More statistics</summary>
+    <summary>⚙️ More statistics - <img valign="sub" src="https://komarev.com/ghpvc/?username=thomaspsl&color=blueviolet&style=flat-rounded&label=Profile+views"/></summary>
     <br>
     <div align="center">
       <a href="https://github.com/thomaspsl"><img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=true&background=212121"/></a>
