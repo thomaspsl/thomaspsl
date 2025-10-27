@@ -25,9 +25,10 @@
 
   <details>
     <summary>⚙️ More statistics - <a href="https://github.com/thomaspsl"><img valign="sub" src="https://komarev.com/ghpvc/?username=thomaspsl&color=blueviolet&style=flat-rounded&label=Profile+views"/></a></summary>
+    <br>
     <div align="center">
-      <a href="."><img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=true&background=212121"/></a>
-      <a href="."><img height="150" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121"/></a>
+      <a href="https://github.com/thomaspsl"><img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=true&background=212121"/></a>
+      <a href="https://github.com/thomaspsl"><img height="150" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121"/></a>
     </div>
   </details>
  
@@ -39,16 +40,16 @@
   
   ### Languages & Databases
  
-  <img height="50" src="https://skillicons.dev/icons?i=html,css,js,typescript,php,py,bash,java"/>
-  <img align="right" height="50" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
+  <a href="https://github.com/thomaspsl"><img height="50" src="https://skillicons.dev/icons?i=html,css,js,typescript,php,py,bash,java"/></a>
+  <a href="https://github.com/thomaspsl"><img align="right" height="50" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></a>
 
   ### Frameworks & OS
 
-  <img height="50" src="https://skillicons.dev/icons?i=symfony,laravel,bootstrap,nodejs,react,nextjs,tailwindcss"/>
-  <img align="right" height="50" src="https://skillicons.dev/icons?i=windows,linux,redhat,ubuntu,debian"/>
+  <a href="https://github.com/thomaspsl"><img height="50" src="https://skillicons.dev/icons?i=symfony,laravel,bootstrap,nodejs,react,nextjs,tailwindcss"/></a>
+  <a href="https://github.com/thomaspsl"><img align="right" height="50" src="https://skillicons.dev/icons?i=windows,linux,redhat,ubuntu,debian"/></a>
 
   ### DevOps
  
- <img height="50" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm,prisma,postman,figma,cloudflare,githubactions,docker"/>
+  <a href="https://github.com/thomaspsl"><img height="50" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm,prisma,postman,figma,cloudflare,githubactions,docker"/></a>
  
 </div>
