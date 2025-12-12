@@ -21,14 +21,14 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" width="15" height="15" /> **Fullstack Enthusiast** - APIs, databases, UIs… I build end to end<br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="15" height="15" /> **Fluent** - JS, SQL, Docker… and also French, English, and Spanish
 
-  <a href="https://github.com/thomaspsl"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=212121"/></a>
+  <a href="https://github.com/thomaspsl"><img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=212121"/></a>
 
   <details>
     <summary>⚙️ More statistics - <a href="https://github.com/thomaspsl"><img valign="sub" src="https://komarev.com/ghpvc/?username=thomaspsl&color=blueviolet&style=flat-rounded&label=Profile+views"/></a></summary>
     <br>
     <div align="center">
       <a href="https://github.com/thomaspsl"><img height="150" src="https://nirzak-streak-stats.vercel.app/?user=thomaspsl&theme=dark&hide_border=true&background=212121"/></a>
-      <a href="https://github.com/thomaspsl"><img height="150" src="https://github-readme-stats.vercel.app/api?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121"/></a>
+      <a href="https://github.com/thomaspsl"><img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121"/></a>
     </div>
   </details>
  
