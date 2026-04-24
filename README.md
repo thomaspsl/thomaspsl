@@ -9,7 +9,7 @@
   [![Twitter](https://img.shields.io/badge/Twitter-24A4F3.svg?logo=X&logoColor=white)](https://www.x.com/thomaspssl)
 
   _I’m a Full-Stack Developer <img src="/assets/images/Graduation Cap.webp" width="25" style="max-width: 100%;" />_<br>
-  _recently graduated with a Master’s degree in Web Development._
+  _Recently graduated with a Master’s degree in Web Development._
 
   <a href="https://open.spotify.com/user/7cepwxzhqd643r8dbh1kmqlo3"><img align="right" width="290" src="https://spotify-recently-played-readme.vercel.app/api?user=7cepwxzhqd643r8dbh1kmqlo3&count=5"/></a>
 
