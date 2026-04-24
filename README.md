@@ -27,7 +27,7 @@
     <summary>⚙️ More statistics - <a href="https://github.com/thomaspsl"><img valign="sub" src="https://komarev.com/ghpvc/?username=thomaspsl&color=blueviolet&style=flat-rounded&label=Profile+views"/></a></summary>
     <br>
     <div align="center">
-      <a href="https://github.com/thomaspsl"><img src="https://streak-stats.demolab.com?user=thomaspsl&theme=dark&hide_border=true&background=212121&card_height=150"/></a>
+      <a href="https://github.com/thomaspsl"><img src="https://streak-stats.demolab.com?user=thomaspsl&theme=dark&hide_border=true&background=212121&card_width=380&card_height=150"/></a>
       <a href="https://github.com/thomaspsl"><img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thomaspsl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121"/></a>
     </div>
   </details>
